@@ -1,0 +1,60 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "good to have this all skills to improve web developing rood"
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "good to have this all skills to improve web developing rood"
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI AND UX Design",
+            "description": "good to have this all skills to improve web developing rood"
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "Python developer",
+            "description": "good to have this all skills to improve web developing rood"
+        }
+        
+    ],
+
+
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/hotel.png",
+            "title": "Hotel Managements System",
+            "description": "A Hotel Management System is a software solution that simplifies and improves hotel operations. It handles reservations, guest check-in/out, room assignments, billing, and inventory management. This streamlines processes, reduces errors, and enhances guest experiences. Additionally, the system provides valuable insights through reporting and analytics, aiding management decisions for better efficiency and customer satisfaction",
+            "link":"view in github",
+            "join":"https://github.com/dubeykishan1910/Hotel_ManagementSystem"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image1.png",
+            "title": "Back-End",
+            "description": "good to have this all skills to improve web developing rood",
+            "link":"view git",
+            "join":"https://github.com/dubeykishan1910/Hotel_ManagementSystem"
+        }
+    ],
+
+
+    "resum":[
+        {
+            "id":"1",
+            "href":"Kishan_Dubey_B.Tech.pdf",
+            "download":"true"
+
+        }
+
+    ]
+}
