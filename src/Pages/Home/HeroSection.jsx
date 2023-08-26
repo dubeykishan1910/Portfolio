@@ -17,7 +17,7 @@ export default function HeroSection() {
           Looking for an entry-level position in an
           organization where my knowledge and skills will
           be utilized for achieving the company’s goals
-          while also ensuring my personal growth
+          while also ensuring my personal growth.
           </p>
         </div>
         
