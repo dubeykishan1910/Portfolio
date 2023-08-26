@@ -9,7 +9,7 @@ export default function HeroSection() {
         <div className="hero--section--content">
           <p className="section--title">Hey, I'm Kishan</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Full Stack</span>{" "}
+            <span className="hero--section-title--color">Web </span>{" "}
             <br />
             Developer
           </h1>
@@ -31,7 +31,7 @@ export default function HeroSection() {
           <div key={index}>
           
 
-        <a href={item.href } download={item.download} target='_blank' ><button className="btn btn-primary">My Resume</button></a>
+        <a href={item.href } download={item.download} target='_blank' ><button className="btn btn-primary">DOWNLOAD CV</button></a>
         
         </div>
         

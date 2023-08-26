@@ -7,16 +7,21 @@ import About from "../About";
 import MyPortfolio from "../MyPortfolio";
 import Footer from "../Footer";
 import ContactMe from "../ContactMe";
+import Testimonials from "../Testimonials";
 
 export default function Home() {
   return (
     <>
       <HeroSection/>
-      <MySkills/>
+      {/* <MySkills/> */}
+      
       <About/>
+      
       <MyPortfolio/>
+      <Testimonials/>
       <ContactMe/>
       <Footer/>
+      
       
     </>
   )

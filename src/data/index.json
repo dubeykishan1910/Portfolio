@@ -36,15 +36,8 @@
             "description": "A Hotel Management System is a software solution that simplifies and improves hotel operations. It handles reservations, guest check-in/out, room assignments, billing, and inventory management. This streamlines processes, reduces errors, and enhances guest experiences. Additionally, the system provides valuable insights through reporting and analytics, aiding management decisions for better efficiency and customer satisfaction",
             "link":"view in github",
             "join":"https://github.com/dubeykishan1910/Hotel_ManagementSystem"
-        },
-        {
-            "id": "2",
-            "src": "./img/placeholder-image1.png",
-            "title": "Back-End",
-            "description": "good to have this all skills to improve web developing rood",
-            "link":"view git",
-            "join":"https://github.com/dubeykishan1910/Hotel_ManagementSystem"
         }
+        
     ],
 
 

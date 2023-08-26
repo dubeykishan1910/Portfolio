@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function About() {
   return (
-    <section id="AboutM" className='about--section'>
+    <section id="AboutMe" className='about--section'>
         <div className="about--section--img">
-            <img src="./img/ph1.png" alt="ss" />
+            <img src="./img/ph13.png" alt="ss" />
         </div>
 
         <div className="hero--section--content--box about--section--box">
@@ -16,7 +16,7 @@ export default function About() {
             
           </p>
           <p className="hero--section-description">
-          My process begins with thorough research and understanding of both the target audience and the client's needs.
+          {/* My process begins with thorough research and understanding of both the target audience and the client's needs. */}
           </p>
         </div>
       </div>

@@ -9,7 +9,7 @@ body {
   }
 
   .bigimg{
-    height: 70px;
+    height: 50px;
   }
   a{text-decoration: none;
   }
@@ -290,7 +290,7 @@ body {
 
   .skills--section--heading{
     color: var(--heading-color);
-    font-size:64px;
+    font-size:   64px;
     font-weight: 700;
     line-height: 77px;
   }
@@ -465,6 +465,60 @@ body {
 
 
 /* Testimonial */
+
+
+.section--titleee{
+  
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 45px;
+
+}
+.skills-container {
+  max-width: 1600px;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px;
+  
+  
+}
+
+.skill {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  
+}
+
+.skill-label {
+  flex: 1;
+  padding-left: 133.3px;
+}
+
+.skill-bar {
+  flex: 2;
+  height: 20px;
+  border-radius: 5px;
+  background-color: #ddd;
+  position: relative;
+}
+
+.skill-level {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background-color: #007bff;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding-left: 8px;
+  border-radius: 5px 0 0 5px;
+}
+
+
+
+
 
 /* contact us */
 .contact--section{display: flex;
